@@ -1,0 +1,11 @@
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\ZenitramAPI.exe
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\ZenitramAPI.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\ZenitramAPI.deps.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\ZenitramAPI.runtimeconfig.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\ZenitramAPI.pdb
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ZenitramAPI\ZenitramAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
