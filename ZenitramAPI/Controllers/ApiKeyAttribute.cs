@@ -22,9 +22,9 @@ namespace ZenitramAPI.Controllers
                 return;
             }
 
-            var appSettings = context.HttpContext.RequestServices.GetRequiredService<IOptions<AzureOptions>>();
+            var appSettings = context.HttpContext.RequestServices.GetRequiredService<IConfiguration>();
 
-            var apiKey = appSettings.Value.MessageApiKey;
+            var apiKey = appSettings.GetValue<string>(APIKEYNAME);
 
             if (!apiKey.Equals(extractedApiKey.ToString()))
             {
